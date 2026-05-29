@@ -52,6 +52,10 @@ export default function Layout({ children }) {
             alt="Company Logo"
             className="h-10 w-auto object-contain"
           />
+          <h2 className="mt-2 text-lg font-bold text-gray-800">
+            Team Task Manager
+          </h2>
+          
         </div>
 
         <nav className="flex-1 px-4 py-4 space-y-1">

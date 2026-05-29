@@ -32,6 +32,9 @@ export default function Login() {
             alt="Company Logo"
             className="h-14 w-auto object-contain mx-auto mb-4"
           />
+          <h1 className="text-3xl font-bold text-gray-800">
+            TEAM TASK MANAGER
+          </h1>
           <p className="text-gray-500 mt-1">Sign in to your account</p>
         </div>
 
