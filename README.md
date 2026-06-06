@@ -96,3 +96,8 @@ npm run dev    # starts on http://localhost:3000
 | Update task (status, content) | Assignee, creator, or project admin |
 | Assign task to others | Project admin only |
 | Delete task | Creator or project admin |
+
+
+## Deployed on Render
+
+https://team-task-manager-neww-frontend.onrender.com
