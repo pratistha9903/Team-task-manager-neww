@@ -47,11 +47,7 @@ export default function Layout({ children }) {
       {/* Sidebar */}
       <aside className="w-64 bg-white border-r border-gray-100 flex flex-col shadow-sm">
         <div className="px-4 py-4 border-b border-gray-100">
-          <img
-            src="/companyLogo.jpeg"
-            alt="Company Logo"
-            className="h-10 w-auto object-contain"
-          />
+          
           <h2 className="mt-2 text-lg font-bold text-gray-800">
             Team Task Manager
           </h2>

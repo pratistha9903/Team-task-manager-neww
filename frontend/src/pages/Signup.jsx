@@ -27,12 +27,6 @@ export default function Signup() {
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-50 to-indigo-100 px-4">
       <div className="w-full max-w-md">
         <div className="text-center mb-8">
-          <img
-            src="/companyLogo.jpeg"
-            alt="Company Logo"
-            className="h-14 w-auto object-contain mx-auto mb-4"
-            
-          />
           <h1 className="text-2xl font-bold text-gray-800">
           Team Task Manager
           </h1>
