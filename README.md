@@ -38,9 +38,8 @@ Task          → id, title, description, status, priority, dueDate, projectId, 
 ```bash
 cd backend
 npm install
-npx prisma generate
-npx prisma migrate deploy
-npm run dev
+npx prisma migrate dev --name init # creates SQLite DB
+npm run dev # starts on
 ```
 
 Backend runs on:
